@@ -1,0 +1,4 @@
+
+
+class NoVideoTracksException(Exception):
+    pass

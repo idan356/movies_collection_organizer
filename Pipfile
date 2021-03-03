@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+parse-torrent-title = "==2.3"
+ffsubsync = "==0.4.11"
+argparse = "==1.4.0"
+tmdb3 = {file = "https://github.com/opacam/python3-tmdb3/archive/master.zip"}
+pathvalidate = "==2.3.2"
+pytube = "==10.4.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
